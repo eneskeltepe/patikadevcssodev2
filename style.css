@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  #google {
+    position: relative;
+    left: 40%;
+  }
+  table {
+    position: relative;
+    left: 200px;
+  }
+  td {
+    text-align: center;
+    background-color: #eeeeee;
+  }
+  #section-2 {
+    text-align: center;
+  }
+  #section-3 {
+    text-align: center;
+  }
+  #section-4 {
+    text-align: center;
+  }
+  #copyright {
+    text-align: center;
+  }
+  footer {
+    text-align: center;
+    margin-top: 10px;
+  }
